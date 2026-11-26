@@ -32,3 +32,7 @@ Open `http://localhost:8080` in a browser. For Android installation, deploy the 
 4. Configure Android package ID, app icon, signing key and release build in Android Studio.
 
 A native signed APK cannot be produced in this workspace because the Android SDK/Gradle build toolchain is not installed.
+
+
+## Mode Coach gratis offline
+Evaluasi dan saran Coach Intelligence dihitung secara lokal di browser dari profil dan catatan latihan. Tidak memerlukan API key, kartu kredit, langganan, atau koneksi AI eksternal. Ini adalah analisis berbasis aturan, bukan AI generatif, dan tidak menjamin layanan pihak ketiga gratis selamanya. Strava belum terhubung.
